@@ -1,0 +1,6 @@
+class NutritionData(self, calories, total_fat, caffeine):
+    ''
+
+
+esp_sig = NutritionData(5, 0, 0)
+whip_cream = NutritionData(25, 0, 0)
